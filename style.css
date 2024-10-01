@@ -45,8 +45,8 @@ ul {
 
 li {
     background-color: #e0e0e0;
-    padding: 10px;
-    margin: 10px 0;
+    padding: 15px; /* Adjust padding for more clickable space */
+    margin: 20px 0; /* Increase margin for more space between options */
     cursor: pointer;
     border-radius: 8px;
     transition: background-color 0.3s;
